@@ -9,7 +9,7 @@
 <preferences/>
 <find_panel_settings/>
 <vnodes>
-<v t="peckj.20180622114918.1"><vh>@auto droideka.py</vh></v>
+<v t="peckj.20180622114918.1" a="E"><vh>@auto droideka.py</vh></v>
 <v t="peckj.20180622115226.1"><vh>@auto README.md</vh></v>
 </vnodes>
 <tnodes>
